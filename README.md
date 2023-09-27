@@ -4,7 +4,7 @@
 
 <img align="right" height="210" src="https://github.com/AnuragRoque/AnuragRoque/blob/bba90aa2ecbfaa356f083d992f551d8a75e33955/assets/image1.png"  />
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/anurag2050" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>

@@ -18,7 +18,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 <a href="https://anuragpi.me" target="_blank">
-    <img src="https://github.com/AnuragRoque/AnuragRoque/blob/main/assets/icons8-website-water-color-96.png" width="52" height="40" alt="website"  />
+    <img src="https://github.com/AnuragRoque/AnuragRoque/blob/main/assets/icons8-website-water-color-96.png" width="42" height="40" alt="website"  />
+  </a>
+  <a href="https://blog.anuragpi.live" target="_blank">
+    <img src="https://github.com/AnuragRoque/AnuragRoque/blob/main/assets/icons8-blog-windows-11-color-96.png" width="42" height="40" alt="website"  />
   </a>
 </div>
 

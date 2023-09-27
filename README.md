@@ -1,12 +1,8 @@
 <h1 align="center">It's me Anurag Roque ☕</h1>
 
-###
-
 <br clear="both">
 
 <img align="right" height="210" src="https://github.com/AnuragRoque/AnuragRoque/blob/bba90aa2ecbfaa356f083d992f551d8a75e33955/assets/image1.png"  />
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anurag2050" target="_blank">
@@ -21,27 +17,20 @@
   <a href="https://discord.com/channels/@anuragroque" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
+<a href="https://anuragpi.me" target="_blank">
+    <img src="https://github.com/AnuragRoque/AnuragRoque/blob/main/assets/icons8-website-water-color-96.png" width="52" height="40" alt="website"  />
+  </a>
 </div>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=anuragroque.anuragroque&"  />
 </div>
 
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
 
 <p align="left">I'm Anurag from Gurgaon<br><br>- 🔭 I’m working as Full Stack Developer | Youtuber<br>- 📚 I'm currently learning MERN<br>- ⚡ In my free time I Make Technical Videos</p>
 
-###
-
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -95,11 +84,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
 </div>
 
-###
-
 <h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuragroque&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
@@ -107,22 +92,12 @@
   <img src="https://streak-stats.demolab.com?user=anuragroque&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/anuragroque/anuragroque/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
-###
-
 <br clear="both">
-
-<p align="center">[Website](https://www.anuragpi.me)</p>
-
-###

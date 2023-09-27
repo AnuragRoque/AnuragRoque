@@ -1,8 +1,10 @@
 <h1 align="center">It's me Anurag Roque ☕</h1>
 
 <br clear="both">
-
-<img align="right" height="210" src="https://github.com/AnuragRoque/AnuragRoque/blob/bba90aa2ecbfaa356f083d992f551d8a75e33955/assets/image1.png" src="https://visitor-badge.laobi.icu/badge?page_id=anuragroque.anuragroque&"  />
+<div align="right">
+<img  height="210" src="https://github.com/AnuragRoque/AnuragRoque/blob/bba90aa2ecbfaa356f083d992f551d8a75e33955/assets/image1.png" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anuragroque.anuragroque&"/>
+</div>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/anurag2050" target="_blank">

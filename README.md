@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="180" src="https://github.com/AnuragRoque/AnuragRoque/blob/bba90aa2ecbfaa356f083d992f551d8a75e33955/assets/image1.png"  />
+<img align="right" height="210" src="https://github.com/AnuragRoque/AnuragRoque/blob/bba90aa2ecbfaa356f083d992f551d8a75e33955/assets/image1.png"  />
 
 ###
 

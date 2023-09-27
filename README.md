@@ -4,13 +4,13 @@
 
 <br clear="both">
 
-<img align="right" height="130" src="https://github.com/AnuragRoque/AnuragRoque/blob/bba90aa2ecbfaa356f083d992f551d8a75e33955/assets/image1.png"  />
+<img align="right" height="180" src="https://github.com/AnuragRoque/AnuragRoque/blob/bba90aa2ecbfaa356f083d992f551d8a75e33955/assets/image1.png"  />
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anurag2050" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="60" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCClcGcmklEamcnffVrT3c1Q" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />

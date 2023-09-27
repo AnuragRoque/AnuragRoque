@@ -25,7 +25,7 @@
   </a>
 </div>
 
-<div align="center">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=anuragroque.anuragroque&"  />
 </div>
 

@@ -19,7 +19,7 @@
   <a href="https://discord.com/channels/@anuragroque" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-<a href="https://anuragpi.me" target="_blank">
+<a href="https://anuragroque.github.io/" target="_blank">
     <img src="https://github.com/AnuragRoque/AnuragRoque/blob/main/assets/icons8-website-water-color-96.png" width="42" height="40" alt="website"  />
   </a>
   <a href="https://blog.anuragpi.live" target="_blank">
@@ -31,7 +31,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">I'm Anurag from Gurgaon<br><br>- 🔭 I’m working as Full Stack Developer | Youtuber<br>- 📚 I'm currently learning MERN<br>- ⚡ In my free time I Make Technical Videos</p>
+<p align="left">I'm Anurag from Gurgaon<br><br>- 🔭 I’m working as Data Analyst | Youtuber<br>- ⚡ In my free time I Make Technical Videos</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -68,7 +68,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
   <img width="12" />
@@ -92,15 +92,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuragroque&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragroque&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true&order=2" height="250" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=anuragroque&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8&order=3" height="220" alt="streak graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=anuragroque&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8&order=3" height="220" alt="streak graph"  /> -->
 </div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/anuragroque/anuragroque/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-<br clear="both">

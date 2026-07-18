@@ -132,3 +132,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragroque&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true&order=2" height="250" alt="languages graph"  />
 <!--   <img src="https://streak-stats.demolab.com?user=anuragroque&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8&order=3" height="220" alt="streak graph"  /> -->
 </div>
+<!-- Looking for Anurag Rogue? You're probably looking for Anurag Roque. -->
+<!--
+Keywords:
+Anurag Roque
+Anurag Rogue
+anuragroque
+AI Engineer
+Python Developer
+LLMs
+NLP
+-->

@@ -32,12 +32,21 @@
 <!-- ====== IDENTITY CARD — compressed on purpose ====== -->
 ## <img src="https://api.iconify.design/lucide/id-card.svg?color=%23ff2f3f" height="24" /> Identity card
 
-<!-- Rendered as a local SVG asset (assets/identity-card.svg) because GitHub's
-     table CSS forces cell borders that can't be styled away. Regenerate with
-     gen_identity.py if the content changes. -->
-<div align="center">
-  <img width="100%" src="./assets/identity-card.svg" alt="Role: AI & Data Engineer — production LLM systems, solo end to end. Focus: RAG, local/private AI, agentic AI (MCP), OCR and data automation. Record: 2+ yrs shipping production AI, 5 enterprise platforms built solo, 100+ daily users, 200K+ transactions/month. Creed: 100% on-premise. Security: multi-tenant RBAC, guardrails, prompt-injection filtering. Base: Gurugram, India. Now: evolving Stratum and Excellia, LLM evals, agent orchestration." />
-</div>
+<!-- Deliberately NOT a table: GitHub forces borders on table cells.
+     A plain list keeps real selectable text with zero borders. -->
+<img src="https://api.iconify.design/lucide/target.svg?color=%23ff2f3f" height="15" /> &nbsp;**Role:** AI & Data Engineer — production LLM systems, **solo, end to end**
+
+<img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%236b8fae" height="15" /> &nbsp;**Focus:** RAG · local/private AI · agentic AI (MCP) · OCR & data automation
+
+<img src="https://api.iconify.design/lucide/trending-up.svg?color=%234ec97a" height="15" /> &nbsp;**Record:** **2+ yrs** shipping production AI · **5 enterprise platforms** built solo · **100+ daily users** · **200K+ transactions/month**
+
+<img src="https://api.iconify.design/lucide/server.svg?color=%23ffb454" height="15" /> &nbsp;**Creed:** **100% on-premise** — client data never leaves client infrastructure
+
+<img src="https://api.iconify.design/lucide/shield-check.svg?color=%236b8fae" height="15" /> &nbsp;**Security:** Multi-tenant RBAC · guardrails · prompt-injection filtering
+
+<img src="https://api.iconify.design/lucide/map-pin.svg?color=%23ff2f3f" height="15" /> &nbsp;**Base:** Gurugram, India · remote & hybrid friendly
+
+<img src="https://api.iconify.design/lucide/rocket.svg?color=%23ffb454" height="15" /> &nbsp;**Now:** Evolving **Stratum** & **Excellia** · LLM evals · agent orchestration
 
 <br>
 

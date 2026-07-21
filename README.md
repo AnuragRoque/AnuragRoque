@@ -1,145 +1,154 @@
-<h1 align="center">It's me Anurag Roque 👨‍💻</h1>
+<!-- ============================================================
+  GITHUB PROFILE README — Anurag Singh (@AnuragRoque)
+  Design system: black / red (#ff2f3f) / steel — matches assets/neural-header.svg
+  All stat widgets use custom colors (bg 07080a, accent ff2f3f) — no stock themes.
+============================================================ -->
 
-<br clear="both">
+<!-- ====== HEADER: custom animated neural SVG (human × machine) ====== -->
+<a href="https://github.com/AnuragRoque">
+  <img width="100%" src="./assets/neural-header.svg" alt="Anurag Singh (Roque) — AI & Data Engineer" />
+</a>
 
-<img align="right" height="210" src="https://github.com/AnuragRoque/AnuragRoque/blob/bba90aa2ecbfaa356f083d992f551d8a75e33955/assets/image1.png" />
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anuragroque.anuragroque&"/>
-
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/anurag2050" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCClcGcmklEamcnffVrT3c1Q" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/anuragroque" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/channels/@anuragroque" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-<a href="https://anuragroque.github.io/" target="_blank">
-    <img src="https://github.com/AnuragRoque/AnuragRoque/blob/main/assets/icons8-website-water-color-96.png" width="42" height="40" alt="website"  />
-  </a>
-  <a href="https://blog.anuragpi.live" target="_blank">
-    <img src="https://github.com/AnuragRoque/AnuragRoque/blob/main/assets/222.png" width="42" height="40" alt="website"  />
-  </a>
+<!-- ====== CONTACT BUTTONS (custom SVG, brand colors) ====== -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/anurag2050"><img height="30" src="./assets/btn-linkedin.svg" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:anuragsingh2445@gmail.com"><img height="30" src="./assets/btn-email.svg" alt="Email" /></a>&nbsp;
+  <a href="https://anuragroque.github.io/"><img height="30" src="./assets/btn-portfolio.svg" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.youtube.com/channel/UCClcGcmklEamcnffVrT3c1Q"><img height="30" src="./assets/btn-youtube.svg" alt="YouTube" /></a>
 </div>
 
+<!-- ====== VISITOR COUNTER + FOLLOWERS ====== -->
+<div align="center">
+  <!-- <img src="https://komarev.com/ghpvc/?username=AnuragRoque&style=for-the-badge&color=ff2f3f&label=PROFILE+VIEWS" alt="Profile views" /> -->
+  <!-- <a href="https://github.com/AnuragRoque?tab=followers"><img src="https://img.shields.io/github/followers/AnuragRoque?style=for-the-badge&color=ff2f3f&labelColor=0d1319&label=FOLLOWERS" alt="Followers" /></a> -->
 
-## 🚀 About Me
-- AI & Data Engineer with **2+ years building production systems**
-- Built **5+ enterprise platforms** used by 100+ users
-- Specialized in **RAG, Local LLMs, OCR pipelines, and data automation**
-- Focused on **privacy-first, on-prem AI systems**
-- Delivered **70–90% efficiency improvements** in real workflows
 
-## 🧠 Core Expertise
-- **AI/ML**: PyTorch, scikit-learn, NLP (spaCy), RAG, Prompt Engineering  
-- **LLMs**: Ollama (Mistral, Gemma, Phi), Local AI pipelines  
-- **Data Systems**: Pandas, NumPy, large-scale Excel processing  
-- **Backend**: Flask, REST APIs, PostgreSQL, ChromaDB  
-- **Infra**: Docker, AWS (S3/EC2), Linux, Nginx  
-- **OCR & Automation**: Tesseract, Google Vision API  
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=anuragroque.anuragroque&left_text=PROFILE%20VIEWS&left_color=%230d1319&right_color=%23ff2f3f" alt="Profile views" />
 
-<h3 align="left">🛠 Language and tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" /> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  /> -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-  <!-- Core Data & Analytics -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40"/>
-
-<!-- ML / AI -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spacy/spacy-original.svg" height="40"/> -->
-
-<!-- LLM / AI Tools (custom SVGs) -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="40"/>
-
-<!-- DevOps / Cloud -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40"/> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-
-<!-- Web Scraping / Automation -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40"/>
-
-<!-- Computer Vision / OCR -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40"/>
 </div>
 
-<h3 align="left">🔥   My Stats :</h3>
+<br>
+
+<!-- ====== IDENTITY CARD — compressed on purpose ====== -->
+## <img src="https://api.iconify.design/lucide/id-card.svg?color=%23ff2f3f" height="24" /> Identity card
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragroque&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragroque&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true&order=2" height="250" alt="languages graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=anuragroque&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8&order=3" height="220" alt="streak graph"  /> -->
+
+| | |
+|---:|:---|
+| <img src="https://api.iconify.design/lucide/target.svg?color=%23ff2f3f" height="14" />&nbsp;**Role** | AI & Data Engineer — production LLM systems, **solo, end to end** |
+| <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%236b8fae" height="14" />&nbsp;**Focus** | RAG · local/private AI · agentic AI (MCP) · OCR & data automation |
+| <img src="https://api.iconify.design/lucide/trending-up.svg?color=%234ec97a" height="14" />&nbsp;**Track&nbsp;record** | **2+ yrs** shipping production AI · **5 enterprise platforms** built solo · **100+ daily users** · **200K+ transactions/month** |
+| <img src="https://api.iconify.design/lucide/server.svg?color=%23ffb454" height="14" />&nbsp;**Creed** | **100% on-premise** — client data never leaves client infrastructure |
+| <img src="https://api.iconify.design/lucide/shield-check.svg?color=%236b8fae" height="14" />&nbsp;**Security** | Multi-tenant RBAC · guardrails · prompt-injection filtering |
+| <img src="https://api.iconify.design/lucide/map-pin.svg?color=%23ff2f3f" height="14" />&nbsp;**Base** | Gurugram, India · remote & hybrid friendly |
+| <img src="https://api.iconify.design/lucide/rocket.svg?color=%23ffb454" height="14" />&nbsp;**Now** | Evolving **Stratum** & **Excellia** · LLM evals · agent orchestration |
+
 </div>
-<!-- Looking for Anurag Rogue? You're probably looking for Anurag Roque. -->
+
+<br>
+
+<!-- ====== FEATURED WORK ====== -->
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23ff2f3f" height="24" /> Featured work
+<!-- 
+<div align="center">
+  <a href="https://github.com/AnuragRoque/Enterprise-RAG-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AnuragRoque&repo=Enterprise-RAG-Platform&bg_color=07080a&title_color=ff2f3f&icon_color=6b8fae&text_color=8a94a3&hide_border=true" alt="Enterprise-RAG-Platform" /></a>
+  <a href="https://github.com/AnuragRoque/Excellia-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AnuragRoque&repo=Excellia-AI&bg_color=07080a&title_color=ff2f3f&icon_color=6b8fae&text_color=8a94a3&hide_border=true" alt="Excellia-AI" /></a>
+</div>
+<div align="center">
+  <a href="https://github.com/AnuragRoque/FilloAI-Extension"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AnuragRoque&repo=FilloAI-Extension&bg_color=07080a&title_color=ff2f3f&icon_color=6b8fae&text_color=8a94a3&hide_border=true" alt="FilloAI-Extension" /></a>
+  <a href="https://github.com/AnuragRoque/KYC-Data-Automation-Tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AnuragRoque&repo=KYC-Data-Automation-Tool&bg_color=07080a&title_color=ff2f3f&icon_color=6b8fae&text_color=8a94a3&hide_border=true" alt="KYC-Data-Automation-Tool" /></a>
+</div> -->
+
+<div align="center">
+
+| System | Mission | Stack | Status |
+|---|---|---|:---:|
+| <img src="https://api.iconify.design/lucide/brain.svg?color=%23ff2f3f" height="15" />&nbsp;[**Stratum**](https://github.com/AnuragRoque/Enterprise-RAG-Platform)<br><sub>Enterprise&nbsp;RAG</sub> | Answers **strictly from your documents** — hybrid retrieval → RRF → cross-encoder → MMR → grounded refusal; tenant isolation in SQL | <sub>Python · FastAPI · pgvector · Ollama</sub> | <img src="https://api.iconify.design/lucide/circle-check.svg?color=%234ec97a" height="16" title="Live in production" /> |
+| <img src="https://api.iconify.design/lucide/file-spreadsheet.svg?color=%234ec97a" height="15" />&nbsp;[**Excellia&nbsp;AI**](https://github.com/AnuragRoque/Excellia-AI)<br><sub>Data&nbsp;intelligence</sub> | Air-gapped spreadsheet intelligence — **500K-row files**, evidence-backed answers; **19-tool MCP server** + Excel add-in + web + API | <sub>Python · pandas · scikit-learn · MCP</sub> | <img src="https://api.iconify.design/lucide/circle-check.svg?color=%234ec97a" height="16" title="Live in production" /> |
+| <img src="https://api.iconify.design/lucide/puzzle.svg?color=%23ffb454" height="15" />&nbsp;[**Fillo&nbsp;AI**](https://github.com/AnuragRoque/FilloAI-Extension)<br><sub>[Chrome&nbsp;Store](https://chromewebstore.google.com/detail/fnnlcgkmlimkadibaefjkfmpigollchk)</sub> | Fills any web form via **local LLM, zero cloud calls** — 9-layer field-intent engine; verify-then-write, never auto-submit | <sub>JS · Chrome MV3 · Ollama</sub> | <img src="https://api.iconify.design/lucide/circle-check.svg?color=%234ec97a" height="16" title="Live in production" /> |
+| <img src="https://api.iconify.design/lucide/scan-line.svg?color=%236b8fae" height="15" />&nbsp;[**KYC&nbsp;OCR**](https://github.com/AnuragRoque/KYC-Data-Automation-Tool)<br><sub>Document&nbsp;pipeline</sub> | Multi-doc OCR + **ML/LLM identity matching** (Aadhaar, PAN, GST) — used in real Paytm & OYO audits | <sub>Python · Google Vision · Tesseract</sub> | <img src="https://api.iconify.design/lucide/circle-check.svg?color=%234ec97a" height="16" title="Live in production" /> |
+
+</div>
+
+> <img src="https://api.iconify.design/lucide/building-2.svg?color=%236b8fae" height="14" /> **Closed-source @ TRPW:** Limestone (bank reconciliation — 10K+ tx/month, 32 hrs/week saved) · Betel TMS · Betel VMS · SOP Intelligence Portal
+
+<br>
+
+<!-- ====== TECH STACK — skillicons grid + everything else in one quiet line ====== -->
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23ff2f3f" height="24" /> Tech stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,pytorch,sklearn,opencv,flask,fastapi,postgres,mysql,mongodb,redis,docker,aws,linux,nginx,git,selenium&perline=9&theme=dark" alt="Tech stack" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/pandas-0d1319?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-0d1319?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/LangChain-0d1319?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-0d1319?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Ollama-0d1319?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Hugging_Face-0d1319?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/ChromaDB-0d1319?style=flat-square&logo=databricks&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/BM25-0d1319?style=flat-square" alt="BM25" />
+  <img src="https://img.shields.io/badge/MCP-0d1319?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Tesseract_OCR-0d1319?style=flat-square&logo=google&logoColor=white" alt="Tesseract OCR" />
+  <img src="https://img.shields.io/badge/Google_Cloud_Vision-0d1319?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Vision" />
+</div>
+
+<br>
+
+<!-- ====== GITHUB STATS — custom red/black to match the header ====== -->
+## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%23ff2f3f" height="24" /> GitHub stats
+
+<div align="center">
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnuragRoque&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=07080a&title_color=ff2f3f&icon_color=ff2f3f&text_color=c9d1d9&ring_color=ff2f3f" alt="GitHub stats" /> -->
+  <img height="170" src="https://streak-stats.demolab.com/?user=AnuragRoque&hide_border=true&background=07080A&ring=FF2F3F&fire=FF2F3F&currStreakLabel=FF2F3F&currStreakNum=EEF1F5&sideNums=EEF1F5&sideLabels=8A94A3&dates=8A94A3&stroke=1C2836" alt="Contribution streak" />
+</div>
+<!-- 
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragRoque&layout=compact&langs_count=8&hide_border=true&bg_color=07080a&title_color=ff2f3f&text_color=c9d1d9" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnuragRoque&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+</div> -->
+
+<!-- WakaTime: real hours coded per language. Requires a free wakatime.com account
+     with the editor plugin installed. Shows an error card until the account exists —
+     if your WakaTime username differs from AnuragRoque, change it here. -->
+<!-- <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=AnuragRoque&layout=compact&hide_border=true&bg_color=07080a&title_color=ff2f3f&text_color=c9d1d9" alt="WakaTime coding stats" />
+</div> -->
+
+<!-- Profile details: join date, commit timeline, totals -->
+<!-- <div align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnuragRoque&theme=github_dark" alt="Profile details" />
+</div> -->
+
+<!-- Contribution heatmap — the classic year grid, recolored to profile red -->
+<!-- <div align="center">
+  <img width="90%" src="https://ghchart.rshah.org/ff2f3f/AnuragRoque" alt="Contribution heatmap" />
+</div> -->
+
+<!-- Snake: generated daily by .github/workflows/snake.yml into the `output` branch.
+     Broken image until the workflow has run once on GitHub (Actions tab → generate snake → Run workflow). -->
+<!-- <div align="center">
+  <img width="90%" src="https://raw.githubusercontent.com/AnuragRoque/AnuragRoque/output/github-snake-dark.svg" alt="Contribution snake" />
+</div> -->
+
+<br>
+
+<!-- ====== CONNECT ====== -->
+## <img src="https://api.iconify.design/lucide/handshake.svg?color=%23ff2f3f" height="24" /> Let's connect
+
+**Open to AI / Data Engineering roles & consulting** — RAG systems, document automation, data platforms.
+
+<img src="https://api.iconify.design/lucide/map-pin.svg?color=%23ff2f3f" height="14" /> Gurugram, India · <img src="https://api.iconify.design/lucide/mail.svg?color=%236b8fae" height="14" /> [anuragsingh2445@gmail.com](mailto:anuragsingh2445@gmail.com) · <img src="https://api.iconify.design/lucide/linkedin.svg?color=%236b8fae" height="14" /> [linkedin.com/in/anurag2050](https://www.linkedin.com/in/anurag2050)
+
+---
+
+<div align="center"><sub>AI Engineer · Python Developer · LLMs · RAG · Local AI · NLP · OCR · Anurag Roque · Anurag Rogue · anuragroque</sub></div>
+<div align="center"><sub><img src="https://api.iconify.design/lucide/zap.svg?color=%23ffb454" height="12" /> Built by a human, assisted by machines — fittingly.</sub></div>
+
 <!--
-Keywords:
-Anurag Roque
-Anurag Rogue
-anuragroque
-AI Engineer
-Python Developer
-LLMs
-NLP
+Anurag Singh · Anurag Roque · Anurag Rogue · anuragroque
+AI Engineer · Data Engineer · Python · Machine Learning · LLM · RAG · Agentic AI · Ollama · Local LLM · FastAPI · Flask · PostgreSQL · pgvector · ChromaDB · Semantic Search · Hybrid Search · OCR · Tesseract · Google Vision · MCP · Model Context Protocol · Chrome Extension · Data Quality · KYC · Anomaly Detection
 -->

@@ -38,7 +38,7 @@
 |---:|:---|
 | <img src="https://api.iconify.design/lucide/target.svg?color=%23ff2f3f" height="14" />&nbsp;**Role** | AI & Data Engineer — production LLM systems, **solo, end to end** |
 | <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%236b8fae" height="14" />&nbsp;**Focus** | RAG · local/private AI · agentic AI (MCP) · OCR & data automation |
-| <img src="https://api.iconify.design/lucide/trending-up.svg?color=%234ec97a" height="14" />&nbsp;**Track&nbsp;record** | **2+ yrs** shipping production AI · **5 enterprise platforms** built solo · **100+ daily users** · **200K+ transactions/month** |
+| <img src="https://api.iconify.design/lucide/trending-up.svg?color=%234ec97a" height="14" />&nbsp;**Record** | **2+ yrs** shipping production AI · **5 enterprise platforms** built solo · **100+ daily users** · **200K+ transactions/month** |
 | <img src="https://api.iconify.design/lucide/server.svg?color=%23ffb454" height="14" />&nbsp;**Creed** | **100% on-premise** — client data never leaves client infrastructure |
 | <img src="https://api.iconify.design/lucide/shield-check.svg?color=%236b8fae" height="14" />&nbsp;**Security** | Multi-tenant RBAC · guardrails · prompt-injection filtering |
 | <img src="https://api.iconify.design/lucide/map-pin.svg?color=%23ff2f3f" height="14" />&nbsp;**Base** | Gurugram, India · remote & hybrid friendly |

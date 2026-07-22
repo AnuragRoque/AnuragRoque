@@ -1,12 +1,12 @@
 <!-- ============================================================
-  GITHUB PROFILE README — Anurag Singh (@AnuragRoque)
-  Design system: black / red (#ff2f3f) / steel — matches assets/neural-header.svg
-  All stat widgets use custom colors (bg 07080a, accent ff2f3f) — no stock themes.
+  GITHUB PROFILE README - Anurag Singh (@AnuragRoque)
+  Design system: black / red (#ff2f3f) / steel - matches assets/neural-header.svg
+  All stat widgets use custom colors (bg 07080a, accent ff2f3f) - no stock themes.
 ============================================================ -->
 
 <!-- ====== HEADER: custom animated neural SVG (human × machine) ====== -->
 <a href="https://github.com/AnuragRoque">
-  <img width="100%" src="./assets/neural-header.svg" alt="Anurag Singh (Roque) — AI & Data Engineer" />
+  <img width="100%" src="./assets/neural-header.svg" alt="Anurag Singh (Roque) - AI & Data Engineer" />
 </a>
 
 <!-- ====== CONTACT BUTTONS (custom SVG, brand colors) ====== -->
@@ -29,18 +29,18 @@
 
 <br>
 
-<!-- ====== IDENTITY CARD — compressed on purpose ====== -->
+<!-- ====== IDENTITY CARD - compressed on purpose ====== -->
 ## <img src="https://api.iconify.design/lucide/id-card.svg?color=%23ff2f3f" height="24" /> Identity card
 
 <!-- Deliberately NOT a table: GitHub forces borders on table cells.
      A plain list keeps real selectable text with zero borders. -->
-<img src="https://api.iconify.design/lucide/target.svg?color=%23ff2f3f" height="15" /> &nbsp;**Role:** AI & Data Engineer — production LLM systems, **solo, end to end**
+<img src="https://api.iconify.design/lucide/target.svg?color=%23ff2f3f" height="15" /> &nbsp;**Role:** AI & Data Engineer - production LLM systems, **solo, end to end**
 
 <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%236b8fae" height="15" /> &nbsp;**Focus:** RAG · local/private AI · agentic AI (MCP) · OCR & data automation
 
 <img src="https://api.iconify.design/lucide/trending-up.svg?color=%234ec97a" height="15" /> &nbsp;**Record:** **2+ yrs** shipping production AI · **5 enterprise platforms** built solo · **100+ daily users** · **200K+ transactions/month**
 
-<img src="https://api.iconify.design/lucide/server.svg?color=%23ffb454" height="15" /> &nbsp;**Creed:** **100% on-premise** — client data never leaves client infrastructure
+<img src="https://api.iconify.design/lucide/server.svg?color=%23ffb454" height="15" /> &nbsp;**Creed:** **100% on-premise** - client data never leaves client infrastructure
 
 <img src="https://api.iconify.design/lucide/shield-check.svg?color=%236b8fae" height="15" /> &nbsp;**Security:** Multi-tenant RBAC · guardrails · prompt-injection filtering
 
@@ -66,18 +66,18 @@
 
 | System | Mission | Stack | Status |
 |---|---|---|:---:|
-| <img src="https://api.iconify.design/lucide/brain.svg?color=%23ff2f3f" height="15" />&nbsp;[**Stratum**](https://github.com/AnuragRoque/Enterprise-RAG-Platform)<br><sub>Enterprise&nbsp;RAG</sub> | Answers **strictly from your documents** — hybrid retrieval → RRF → cross-encoder → MMR → grounded refusal; tenant isolation in SQL | <sub>Python · FastAPI · pgvector · Ollama</sub> | <img src="https://api.iconify.design/lucide/circle-check.svg?color=%234ec97a" height="16" title="Live in production" /> |
-| <img src="https://api.iconify.design/lucide/file-spreadsheet.svg?color=%234ec97a" height="15" />&nbsp;[**Excellia&nbsp;AI**](https://github.com/AnuragRoque/Excellia-AI)<br><sub>Data&nbsp;intelligence</sub> | Air-gapped spreadsheet intelligence — **500K-row files**, evidence-backed answers; **19-tool MCP server** + Excel add-in + web + API | <sub>Python · pandas · scikit-learn · MCP</sub> | <img src="https://api.iconify.design/lucide/circle-check.svg?color=%234ec97a" height="16" title="Live in production" /> |
-| <img src="https://api.iconify.design/lucide/puzzle.svg?color=%23ffb454" height="15" />&nbsp;[**Fillo&nbsp;AI**](https://github.com/AnuragRoque/FilloAI-Extension)<br><sub>[Chrome&nbsp;Store](https://chromewebstore.google.com/detail/fnnlcgkmlimkadibaefjkfmpigollchk)</sub> | Fills any web form via **local LLM, zero cloud calls** — 9-layer field-intent engine; verify-then-write, never auto-submit | <sub>JS · Chrome MV3 · Ollama</sub> | <img src="https://api.iconify.design/lucide/circle-check.svg?color=%234ec97a" height="16" title="Live in production" /> |
-| <img src="https://api.iconify.design/lucide/scan-line.svg?color=%236b8fae" height="15" />&nbsp;[**KYC&nbsp;OCR**](https://github.com/AnuragRoque/KYC-Data-Automation-Tool)<br><sub>Document&nbsp;pipeline</sub> | Multi-doc OCR + **ML/LLM identity matching** (Aadhaar, PAN, GST) — used in real Paytm & OYO audits | <sub>Python · Google Vision · Tesseract</sub> | <img src="https://api.iconify.design/lucide/circle-check.svg?color=%234ec97a" height="16" title="Live in production" /> |
+| <img src="https://api.iconify.design/lucide/brain.svg?color=%23ff2f3f" height="15" />&nbsp;[**Stratum**](https://github.com/AnuragRoque/Enterprise-RAG-Platform)<br><sub>Enterprise&nbsp;RAG</sub> | Answers **strictly from your documents** - hybrid retrieval → RRF → cross-encoder → MMR → grounded refusal; tenant isolation in SQL | <sub>Python · FastAPI · pgvector · Ollama</sub> | <img src="https://api.iconify.design/lucide/circle-check.svg?color=%234ec97a" height="16" title="Live in production" /> |
+| <img src="https://api.iconify.design/lucide/file-spreadsheet.svg?color=%234ec97a" height="15" />&nbsp;[**Excellia&nbsp;AI**](https://github.com/AnuragRoque/Excellia-AI)<br><sub>Data&nbsp;intelligence</sub> | Air-gapped spreadsheet intelligence - **500K-row files**, evidence-backed answers; **19-tool MCP server** + Excel add-in + web + API | <sub>Python · pandas · scikit-learn · MCP</sub> | <img src="https://api.iconify.design/lucide/circle-check.svg?color=%234ec97a" height="16" title="Live in production" /> |
+| <img src="https://api.iconify.design/lucide/puzzle.svg?color=%23ffb454" height="15" />&nbsp;[**Fillo&nbsp;AI**](https://github.com/AnuragRoque/FilloAI-Extension)<br><sub>[Chrome&nbsp;Store](https://chromewebstore.google.com/detail/fnnlcgkmlimkadibaefjkfmpigollchk)</sub> | Fills any web form via **local LLM, zero cloud calls** - 9-layer field-intent engine; verify-then-write, never auto-submit | <sub>JS · Chrome MV3 · Ollama</sub> | <img src="https://api.iconify.design/lucide/circle-check.svg?color=%234ec97a" height="16" title="Live in production" /> |
+| <img src="https://api.iconify.design/lucide/scan-line.svg?color=%236b8fae" height="15" />&nbsp;[**KYC&nbsp;OCR**](https://github.com/AnuragRoque/KYC-Data-Automation-Tool)<br><sub>Document&nbsp;pipeline</sub> | Multi-doc OCR + **ML/LLM identity matching** (Aadhaar, PAN, GST) - used in real Paytm & OYO audits | <sub>Python · Google Vision · Tesseract</sub> | <img src="https://api.iconify.design/lucide/circle-check.svg?color=%234ec97a" height="16" title="Live in production" /> |
 
 </div>
 
-> <img src="https://api.iconify.design/lucide/building-2.svg?color=%236b8fae" height="14" /> **Closed-source @ TRPW:** Limestone (bank reconciliation — 10K+ tx/month, 32 hrs/week saved) · Betel TMS · Betel VMS · SOP Intelligence Portal
+> <img src="https://api.iconify.design/lucide/building-2.svg?color=%236b8fae" height="14" /> **Closed-source @ TRPW:** Limestone (bank reconciliation - 10K+ tx/month, 32 hrs/week saved) · Betel TMS · Betel VMS · SOP Intelligence Portal
 
 <br>
 
-<!-- ====== TECH STACK — skillicons grid + everything else in one quiet line ====== -->
+<!-- ====== TECH STACK - skillicons grid + everything else in one quiet line ====== -->
 ## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23ff2f3f" height="24" /> Tech stack
 
 <div align="center">
@@ -102,7 +102,7 @@
 
 <br>
 
-<!-- ====== GITHUB STATS — custom red/black to match the header ====== -->
+<!-- ====== GITHUB STATS - custom red/black to match the header ====== -->
 ## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%23ff2f3f" height="24" /> GitHub stats
 
 <div align="center">
@@ -122,7 +122,7 @@
 </div> -->
 
 <!-- WakaTime: real hours coded per language. Requires a free wakatime.com account
-     with the editor plugin installed. Shows an error card until the account exists —
+     with the editor plugin installed. Shows an error card until the account exists -
      if your WakaTime username differs from AnuragRoque, change it here. -->
 <!-- <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=AnuragRoque&layout=compact&hide_border=true&bg_color=07080a&title_color=ff2f3f&text_color=c9d1d9" alt="WakaTime coding stats" />
@@ -133,7 +133,7 @@
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnuragRoque&theme=github_dark" alt="Profile details" />
 </div> -->
 
-<!-- Contribution heatmap — the classic year grid, recolored to profile red -->
+<!-- Contribution heatmap - the classic year grid, recolored to profile red -->
 <!-- <div align="center">
   <img width="90%" src="https://ghchart.rshah.org/ff2f3f/AnuragRoque" alt="Contribution heatmap" />
 </div> -->
@@ -149,14 +149,14 @@
 <!-- ====== CONNECT ====== -->
 ## <img src="https://api.iconify.design/lucide/handshake.svg?color=%23ff2f3f" height="24" /> Let's connect
 
-**Open to AI / Data Engineering roles & consulting** — RAG systems, document automation, data platforms.
+**Open to AI / Data Engineering roles & consulting** - RAG systems, document automation, data platforms.
 
 <img src="https://api.iconify.design/lucide/map-pin.svg?color=%23ff2f3f" height="14" /> Gurugram, India · <img src="https://api.iconify.design/lucide/mail.svg?color=%236b8fae" height="14" /> [anuragsingh2445@gmail.com](mailto:anuragsingh2445@gmail.com) · <img src="https://api.iconify.design/lucide/linkedin.svg?color=%236b8fae" height="14" /> [linkedin.com/in/anurag2050](https://www.linkedin.com/in/anurag2050)
 
 ---
 
 <div align="center"><sub>AI Engineer · Python Developer · LLMs · RAG · Local AI · NLP · OCR · Anurag Roque · Anurag Rogue · anuragroque</sub></div>
-<div align="center"><sub><img src="https://api.iconify.design/lucide/zap.svg?color=%23ffb454" height="12" /> Built by a human, assisted by machines — fittingly.</sub></div>
+<div align="center"><sub><img src="https://api.iconify.design/lucide/zap.svg?color=%23ffb454" height="12" /> Built by a human, assisted by machines - fittingly.</sub></div>
 
 <!--
 Anurag Singh · Anurag Roque · Anurag Rogue · anuragroque

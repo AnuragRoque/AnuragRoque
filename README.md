@@ -84,18 +84,20 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,js,pytorch,sklearn,opencv,flask,fastapi,postgres,mysql,mongodb,redis,docker,aws,linux,nginx,git,selenium&perline=9&theme=dark" alt="Tech stack" />
 </div>
 
+<!-- Brand-colored badges. ChromaDB / BM25 / Tesseract have no simple-icons logo,
+     so their icons are hand-made SVGs embedded as base64 data URIs. -->
 <div align="center">
-  <img src="https://img.shields.io/badge/pandas-0d1319?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-0d1319?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/LangChain-0d1319?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-0d1319?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Ollama-0d1319?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Hugging_Face-0d1319?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/ChromaDB-0d1319?style=flat-square&logo=databricks&logoColor=white" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/BM25-0d1319?style=flat-square" alt="BM25" />
-  <img src="https://img.shields.io/badge/MCP-0d1319?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
-  <img src="https://img.shields.io/badge/Tesseract_OCR-0d1319?style=flat-square&logo=google&logoColor=white" alt="Tesseract OCR" />
-  <img src="https://img.shields.io/badge/Google_Cloud_Vision-0d1319?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Vision" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iOSIgY3k9IjEyIiByPSI2LjUiIGZpbGw9IiNGRkRFMkQiLz48Y2lyY2xlIGN4PSIxNSIgY3k9IjEyIiByPSI2LjUiIGZpbGw9IiMzMjdFRkYiIGZpbGwtb3BhY2l0eT0iMC44NSIvPjwvc3ZnPg%3D%3D" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/BM25-005571?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjMiIHk9IjQiIHdpZHRoPSIxOCIgaGVpZ2h0PSI0IiByeD0iMSIvPjxyZWN0IHg9IjMiIHk9IjEwIiB3aWR0aD0iMTMiIGhlaWdodD0iNCIgcng9IjEiLz48cmVjdCB4PSIzIiB5PSIxNiIgd2lkdGg9IjgiIGhlaWdodD0iNCIgcng9IjEiLz48L3N2Zz4%3D" alt="BM25" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Tesseract_OCR-34A853?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjciPjxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIvPjxyZWN0IHg9IjguNSIgeT0iOC41IiB3aWR0aD0iNyIgaGVpZ2h0PSI3Ii8%2BPHBhdGggZD0iTTMgM2w1LjUgNS41TTIxIDNsLTUuNSA1LjVNMyAyMWw1LjUtNS41TTIxIDIxbC01LjUtNS41Ii8%2BPC9zdmc%2B" alt="Tesseract OCR" />
+  <img src="https://img.shields.io/badge/Google_Cloud_Vision-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Vision" />
 </div>
 
 <br>
@@ -107,6 +109,12 @@
   <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnuragRoque&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=07080a&title_color=ff2f3f&icon_color=ff2f3f&text_color=c9d1d9&ring_color=ff2f3f" alt="GitHub stats" /> -->
   <img height="170" src="https://streak-stats.demolab.com/?user=AnuragRoque&hide_border=true&background=07080A&ring=FF2F3F&fire=FF2F3F&currStreakLabel=FF2F3F&currStreakNum=EEF1F5&sideNums=EEF1F5&sideLabels=8A94A3&dates=8A94A3&stroke=1C2836" alt="Contribution streak" />
 </div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnuragRoque&layout=compact&langs_count=8&include_all_commits=true&count_private=true&hide_border=true&bg_color=07080a&title_color=ff2f3f&text_color=c9d1d9" alt="Top languages" />
+</div>
+
+
 <!-- 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragRoque&layout=compact&langs_count=8&hide_border=true&bg_color=07080a&title_color=ff2f3f&text_color=c9d1d9" alt="Top languages" />
